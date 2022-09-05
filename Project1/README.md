@@ -17,7 +17,7 @@ In this assignment, you will be asked to implement policy iteration and value it
 
 
 
-<img src="https://github.com/lllyyyt123/WPI-CS525-DS595-Fall22/blob/Project1/img/hw1.png" width="80%">
+<img src="/Project1/img/hw1.png" width="80%">
 <img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project1/img/hw1.png" width="80%">
 <img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project1/img/details_fl.png" width="80%">
 
