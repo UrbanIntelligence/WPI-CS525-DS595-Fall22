@@ -2,8 +2,11 @@
 # Deep Q-learning Network(DQN)
 Please don't revise test.py, environment.py and agent.py
 
+#### Starating Date
+* Week 7, Tuesday Oct 11, 2022 (23:59)
+
 #### Due Date
-* Wednesday Mar 30, 2022 (23:59)
+* Week 10, Tuesday Nov 1, 2022 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
@@ -55,7 +58,7 @@ testing DQN:
 ## Goal
 In this project, you will be asked to implement DQN to play [Breakout](https://gym.openai.com/envs/Breakout-v0/). This project will be completed in Python 3 using [Pytorch](https://pytorch.org/). The goal of your training is to get averaging reward in 100 episodes over **40 points** in **Breakout**, with OpenAI's Atari wrapper & unclipped reward. For more details, please see the [slides](https://docs.google.com/presentation/d/1CbYqY5DfXQy4crBw489Tno_K94Lgo7QwhDDnEoLYMbI/edit?usp=sharing).
 
-<img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/project3.png" width="80%" >
+<img src="/Project3/materials/project3.png" width="80%" >
 
 ## Deliverables
 Please compress all the below files into a zipped file and submit the zip file (firstName_lastName_hw3.zip) to Canvas.
@@ -76,7 +79,7 @@ Please compress all the below files into a zipped file and submit the zip file (
     * X-axis: number of episodes
     * Y-axis: average reward in last 30 episodes.
     
-    <img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/plot.png" width="60%" >
+    <img src="/Project3/materials/plot.png" width="60%" >
 
 * **Python Code**
   * All the code you implemented including sample codes.
