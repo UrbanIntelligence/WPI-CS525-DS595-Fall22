@@ -1,1 +1,1 @@
-# WPI-CS525-DS595-Fall22
+# DS595-RL-Projects
