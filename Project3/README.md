@@ -2,8 +2,11 @@
 # Deep Q-learning Network(DQN)
 Please don't revise test.py, environment.py and agent.py
 
+#### Starating Date
+* Week 7, Tuesday Oct 11, 2022 (23:59)
+
 #### Due Date
-* Wednesday Mar 30, 2022 (23:59)
+* Week 10, Tuesday Nov 1, 2022 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
@@ -12,23 +15,17 @@ Please don't revise test.py, environment.py and agent.py
 In this project, we will provide a leaderboard and give **10** bonus points to the **top 3** highest reward students! 
 * Where to see the leaderboard 
   * We will create a discussion on Canvas and each of you can post your highest reward with a sreenshot. TA will summarize your posts and list the top 3 highest rewards and post it below. <br>
-  * The leaderboard of Fall 2019 is also posted at the end of this page, you can check it out.
+  * The leaderboards of previous years are also posted at the end of this page, you can check it out.
   
   **Leaderboard for Breakout-DQN** 
   **Update Date: **
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
-  | 1  |4/6/2022 | Hongchao Zhang | 128 |
-  | 2  |4/13/2022 | Apratim Mukherjee| 112 |
-  | 3  | 4/6/2022 |  Puru Upadhyay | 82 |
-  | 4  | 4/6/2022 |  Khai Yi Chin | 81 |
-  | 4  | 4/6/2022 |  Karter Krueger | 81 |
-  | 6  | 4/6/2022 |  Sailesh Rajagopalan | 78 |
-  | 6  |4/6/2022 | Steven Hyland | 78 |
-  | 8  |4/6/2022 | Yiran Fang | 74 |
-  | 9  |4/6/2022 | Zhentian Qian | 67 |
-  | 10  |4/6/2022 | Anujay Sharma | 66 |
+  | 1  | |  |  |
+  | 2  | | |  |
+  | 3  | | | |
+
   
  
 
@@ -55,7 +52,7 @@ testing DQN:
 ## Goal
 In this project, you will be asked to implement DQN to play [Breakout](https://gym.openai.com/envs/Breakout-v0/). This project will be completed in Python 3 using [Pytorch](https://pytorch.org/). The goal of your training is to get averaging reward in 100 episodes over **40 points** in **Breakout**, with OpenAI's Atari wrapper & unclipped reward. For more details, please see the [slides](https://docs.google.com/presentation/d/1CbYqY5DfXQy4crBw489Tno_K94Lgo7QwhDDnEoLYMbI/edit?usp=sharing).
 
-<img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/project3.png" width="80%" >
+<img src="/Project3/materials/project3.png" width="80%" >
 
 ## Deliverables
 Please compress all the below files into a zipped file and submit the zip file (firstName_lastName_hw3.zip) to Canvas.
@@ -76,7 +73,7 @@ Please compress all the below files into a zipped file and submit the zip file (
     * X-axis: number of episodes
     * Y-axis: average reward in last 30 episodes.
     
-    <img src="https://github.com/yingxue-zhang/DS595CS525-RL-Projects/blob/master/Project3/materials/plot.png" width="60%" >
+    <img src="/Project3/materials/plot.png" width="60%" >
 
 * **Python Code**
   * All the code you implemented including sample codes.
@@ -138,3 +135,18 @@ Please compress all the below files into a zipped file and submit the zip file (
   |8 | 11/18/2020|Panagiotis Argyrakis  | 156.09  |
   |9 | 11/20/2020|Scott Tang  | 153.89  |
   |10 | 11/18/2020|Xinyuan Yang  | 139.11  |
+  
+## Leaderboard for Spring 2022**
+  
+  | Top | Date | Name | Score |
+  | :---: | :---:| :---: | :---: | 
+  | 1  |4/6/2022 | Hongchao Zhang | 128 |
+  | 2  |4/13/2022 | Apratim Mukherjee| 112 |
+  | 3  | 4/6/2022 |  Puru Upadhyay | 82 |
+  | 4  | 4/6/2022 |  Khai Yi Chin | 81 |
+  | 4  | 4/6/2022 |  Karter Krueger | 81 |
+  | 6  | 4/6/2022 |  Sailesh Rajagopalan | 78 |
+  | 6  |4/6/2022 | Steven Hyland | 78 |
+  | 8  |4/6/2022 | Yiran Fang | 74 |
+  | 9  |4/6/2022 | Zhentian Qian | 67 |
+  | 10  |4/6/2022 | Anujay Sharma | 66 |

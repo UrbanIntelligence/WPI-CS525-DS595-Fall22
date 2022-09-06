@@ -1,68 +1,35 @@
-# Project 4 [Group (3-4 people)]
+# Project 4 [Group (3-5 people)]
 
 #### Important Dates
 * Project Start
-  * **Wednesday Mar 23, 2022**
+  * **Week 10, Tuesday Nov 1, 2022**
 * Project Proposal Due (Upload to Canvas)
-  * **Wednesday Mar 30, 2022 (23:59)**
+  * **Week 11, Tuesday Nov 8, 2022 (23:59)**
   * *About 2 pages*
 * Project Progress Report Due
-  * **Wednesday April 13, 2022 (23:59)**
+  * **Week 13, Tuesday Nov 22, 2022 (23:59)**
   * *About 5 pages*
 * Final Project Report Due
-  * **Monday April 25, 2022 (23:59)**
+  * **Week 15 Monday Dec 5, 2022 (23:59)**
   * *About 10 pages*
   * *Code and trained model*
   * *Demo (Optional)*
   * *Self-and-cross evaluation form*
 * Poster Session (on Zoom)
-  * **Wednesday April 27, 2022**
+  * **Week 15 Tuesday Dec 6, 2022**
 
 #### Total Points
 * 100 (One Hundred)
 
-## Project Titles
+## Project Titles (To be updated!)
 | Team | Title|
 | :---: | :---: |
-|1| Training Agent w/ RL to race in TrackMania 2020|
-|2| Playing Doom with a Deep Recurrent Q Network|
-|3| Robotic Grasping with Reinforcement Learning|
-|4| Comparisons of Deep Q-learning (DQN) with Proximal Policy Optimization (PPO) on Lunar Lander|
-|5| AlphaGomoku: Mastering The Game of Gomoku using The AlphaZero Learning Method|
-|6| Comparison of Reinforcement Learning models applied to MineRL challenge|
-|7| Reinforcement Learning for Autonomous Driving using MetaDrive|
-|8| Super Mario Bros (w/ A2C, PPO, DQN, etc.)|
-|9| Continuous & Mapless Navigation for robots using Policy Gradient Algorithm|
-|10| Training Agent w/ RL to the puzzle video game: Minesweeper|
-|11| Comparison of Discrete and Continuous Action Spaces in Car Racing Environment|
+
 
 # Final Poster Session
-Final Poster Session will be held in Zoom breakout rooms. Each breakout room will have **3** teams, when one team is presenting, other teams are assigned as audients/judges. Also, the poster session will have invited guests (students and faculty from not
-only WPI).
-## Zoom Link
-Please find the class zoom link in Canvas (for registered students) or the invitation email you received (for guests).
+Final Poster Session will be held in person.
 
-## Session Schedule
-**Date** : April 27, 2022
-| Time | Breakroom 1 | Breakroom 2 | Breakroom 3| 
-|---|---|---|---|
-| | | | |
-
-
-## Details
-#### After joining the main session, to start: 
-
-1. Change your name as follows 
-   - Guests: Guest-School-Name, e.g., Guest-WPI-John
-   - Class students: Team-ID-Name, e.g., Team-1-John
-   - TAs: TA-Name
-
-#### To switch to a new breakout room:
-
-1. Leave a breakout room to the main session, 
-2. Join another breakout room of your interest.
-
-***Feedback here: https://forms.gle/cNgfX1dxXct1jNe26***
+***Feedback here: To be updated 
 
 ## Project Ideas
 ### Games
