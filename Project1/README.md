@@ -19,6 +19,7 @@ In this assignment, you will be asked to implement policy iteration and value it
 
 <img src="/Project1/img/hw1.png" width="80%">
 <img src="/Project1/img/details_fl.png" width="80%">
+If your program works, the command line output should look like this.
 <img src="/Project1/img/UnitTests.png" width="80%">
 
 ## Deliverables
