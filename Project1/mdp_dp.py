@@ -142,13 +142,16 @@ def render_single(env, policy, render = False, n_episodes=100):
     ----------
     env: gym.core.Environment
       Environment to play on. Must have nS, nA, and P as attributes.
-    policy: np.array of shape [env.nS, env.nA]
+    policy: np.array of shape [nS, nA]
       The action to take at a given state
     render: whether or not to render the game(it's slower to render the game)
     n_episodes: the number of episodes to play in the game. 
     Returns:
     ------
     total_rewards: the total number of rewards achieved in the game.
+    -----
+    Transition can be done using the function env.step(a) below with FIVE output parameters:
+    ob, r, done, info, prob = env.step(a) 
     """
     total_rewards = 0
     for _ in range(n_episodes):
