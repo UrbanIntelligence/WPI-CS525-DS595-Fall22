@@ -19,6 +19,8 @@ In this assignment, you will be asked to implement policy iteration and value it
 
 <img src="/Project1/img/hw1.png" width="80%">
 <img src="/Project1/img/details_fl.png" width="80%">
+If your program works, the command line output should look like this.
+<img src="/Project1/img/UnitTests.png" width="80%">
 
 ## Deliverables
 
@@ -59,3 +61,5 @@ Please compress your mdp_dp.py file into a zipped file (firstName_lastName_hw1.z
 [Python Tutorial](https://www.geeksforgeeks.org/python-programming-language/)
 
 [OpenAI Gym Documentation](https://www.gymlibrary.dev/)
+
+[OpenAI Gym Tutorial](https://blog.paperspace.com/getting-started-with-openai-gym/)
