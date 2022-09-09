@@ -1,5 +1,5 @@
 ```diff
-- Note: Our environment code mdp_dp.py and mdp_dp_test.py were developed for gym liberary with a version of 0.25.2. 
+- Note: Our environment code mdp_dp.py and mdp_dp_test.py were developed for gym of version 0.25.2. 
 
 - OpenAI updated their gym to the latest version of 0.26. 
 
