@@ -6,6 +6,11 @@
 - So when you install your gym, please use command line "pip install gym==0.25.2". 
 
 - If you have installed other version of gym, "pip install gym==0.25.2" makes sure you will get 0.25.2.  
+
+- If you want to check which version of gym you have, please use the code as below:
+
++ from gym.version import VERSION
++ print(VERSION)
 ```
 
 # DS595/CS525 2022 Fall Individual Project 1
