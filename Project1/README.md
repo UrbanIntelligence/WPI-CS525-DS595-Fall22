@@ -1,10 +1,3 @@
-<style>
-H2{color:DarkOrange !important;}
-</style>
-
-## Second Heading
-Notes:
-
 # DS595/CS525 2022 Fall Individual Project 1
 # Dynamic Programming of Markov Decision Process
 
