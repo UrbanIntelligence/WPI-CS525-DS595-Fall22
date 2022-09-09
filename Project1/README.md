@@ -1,7 +1,11 @@
 ```diff
 - Note: Our environment code mdp_dp.py and mdp_dp_test.py were developed for gym liberary with a version of 0.25.2. 
 
-- OpenAI updated their gym to the latest version of 0.26. So when you install your gym, please use command line "pip install gym==0.25.2". If you have installed other version of gym, "pip install gym==0.25.2" makes sure you will get 0.25.2.  
+- OpenAI updated their gym to the latest version of 0.26. 
+
+- So when you install your gym, please use command line "pip install gym==0.25.2". 
+
+- If you have installed other version of gym, "pip install gym==0.25.2" makes sure you will get 0.25.2.  
 ```
 
 # DS595/CS525 2022 Fall Individual Project 1
