@@ -1,7 +1,3 @@
-```diff
-- Note: 
-```
-
 # DS595/CS525 2022 Fall Individual Project 1
 # Dynamic Programming of Markov Decision Process
 
