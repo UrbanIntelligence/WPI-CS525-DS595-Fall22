@@ -24,7 +24,7 @@ If your program works, the command line output should look like this.
 
 ## Deliverables
 
-Please compress your mdp_dp.py file into a zipped file (firstName_lastName_hw1.zip) and submit it to Canvas.
+Please keep your py file name to "mdp_dp.py" and submit it to Canvas.
 
 ## Grading
 * policy evaluation (20 points)
