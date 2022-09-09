@@ -9,8 +9,8 @@
 
 - If you want to check which version of gym you have, please use the code as below:
 
-+ from gym.version import VERSION
-+ print(VERSION)
+from gym.version import VERSION
+print(VERSION)
 ```
 
 # DS595/CS525 2022 Fall Individual Project 1
