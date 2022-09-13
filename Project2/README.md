@@ -16,7 +16,9 @@ In this project, you will be asked to implement two model-free algorithms. The f
 
 <img src="/Project2/img/project2-1updated.png" width="80%" >
 <img src="/Project2/img/project2-2updated.png" width="80%" >
+Expected Output for project 2-1 (MC)
 <img src="/Project2/img/MC_output.png" width="80%" >
+Expected Output for project 2-2 (TD)
 <img src="/Project2/img/TD_output.png" width="80%" >
 
 ## Guidelines
