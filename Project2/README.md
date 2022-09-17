@@ -1,3 +1,17 @@
+```diff
+- Note: Our environment code mc.py, mc_test.py, td.py and td_test.py were developed for gym of version 0.25.2. 
+
+- OpenAI updated their gym to the latest version of 0.26. 
+
+- So when you install your gym, please use command line "pip install gym==0.25.2". 
+
+- If you have installed other version of gym, "pip install gym==0.25.2" makes sure you will get 0.25.2.  
+
+- If you want to check which version of gym you have, please use the code as below:
+
+from gym.version import VERSION
+print(VERSION)
+```
 
 # Individual Project 2
 # Model-free Algorithms (Monte-Carlo and Temporal Difference)
