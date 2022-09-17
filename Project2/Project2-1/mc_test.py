@@ -5,14 +5,14 @@ import numpy as np
 import sys
 from collections import defaultdict
 
-from mc_solution import *
+from mc import *
 
 """
     This file includes unit test for mc.py
     You could test the correctness of your code by
     typing 'nosetests -v mc_test.py' in the terminal
 """
-env = gym.make('Blackjack-v1')
+env = gym.make('Blackjack-v1',new_step_api=True)
 
 #---------------------------------------------------------------
 

@@ -13,7 +13,7 @@ from td import *
     typing 'nosetests -v td_test.py' in the terminal
 """
 
-env = gym.make('CliffWalking-v0')
+env = gym.make('CliffWalking-v0',new_step_api=True)
 #---------------------------------------------------------------
 
 
@@ -27,7 +27,7 @@ def test_python_version():
 
 def test_epsilon_greedy():
     '''epsilon_greedy (0 point)'''
-    Q = defaultdict(lambda: np.zeros(4))
+    Q = defaultdict(lambda: np.zeros(env.action_space.n))
     Q[5][1] = -1
     Q[5][2] = -1
     Q[5][3] = -1
