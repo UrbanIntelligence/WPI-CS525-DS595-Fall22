@@ -1,3 +1,4 @@
 opencv-python-headless
 gym==0.10.4
 gym[atari]
+pip install ale-py (See https://pypi.org/project/ale-py/)
