@@ -2,3 +2,4 @@ opencv-python-headless
 gym==0.10.4
 pip install gym[atari] (This includes ale-py. See https://pypi.org/project/ale-py/)
 pip install autorom[accept-rom-license] (You have to accept the specific licenses to activate games.)
+# pip install ale-py
