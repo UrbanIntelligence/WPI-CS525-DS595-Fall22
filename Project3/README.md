@@ -1,6 +1,6 @@
 # Inidividual Project 3
 # Deep Q-learning Network(DQN)
-Please don't revise test.py, environment.py and agent.py
+Please don't revise test.py, environment.py atari_wrapper2.py, main.py and agent.py
 
 #### Starating Date
 * Week 7, Tuesday Oct 11, 2022 (23:59)
