@@ -1,8 +1,10 @@
 # Inidividual Project 3
 # Deep Q-learning Network(DQN)
-Please don't revise test.py, environment.py atari_wrapper.py, main.py and agent.py
+Please don't revise test.py, environment.py main.py and agent.py
 
-You work on the following files, including agent_dqn.py and dqn_model.py. You can also optionally update argument.py to add your own arguments.
+You work on the following files, including agent_dqn.py and dqn_model.py. 
+You can also optionally update argument.py to add your own arguments (if needed).
+You can also optionally updated atari_wrapper.py (if needed, but not recommended). 
 
 #### Starating Date
 * Week 7, Tuesday Oct 11, 2022 (23:59)
