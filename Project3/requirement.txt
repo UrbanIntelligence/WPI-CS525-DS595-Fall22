@@ -1,6 +1,6 @@
-pip install opencv-python-headless (See https://pypi.org/project/opencv-python-headless/)
-pip install gym==0.25.2
-pip install gym[atari] (This includes ale-py. See https://pypi.org/project/ale-py/)
-pip install autorom[accept-rom-license] (You have to accept the specific licenses to activate games.)
-# pip install ale-py
-install pytorch: see https://pytorch.org/get-started/locally/
+#opencv-python-headless
+#gym==0.10.4
+#gym[atari]
+#autorom[accept-rom-license]
+#using the following command to install these packages
+pip install opencv-python-headless gym==0.25.2 gym[atari] autorom[accept-rom-license]
