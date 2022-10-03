@@ -3,7 +3,9 @@
 Please don't revise test.py, environment.py main.py and agent.py
 
 You work on the following files, including agent_dqn.py and dqn_model.py. 
-You can also optionally update argument.py to add your own arguments (if needed).
+
+You can optionally update argument.py to add your own arguments (if needed).
+
 You can also optionally updated atari_wrapper.py (if needed, but not recommended). 
 
 #### Starating Date
