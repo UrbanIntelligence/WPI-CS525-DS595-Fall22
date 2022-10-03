@@ -40,7 +40,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
 ## Installation
 Type the following command to install OpenAI Gym Atari environment in your **virutal environment**.
 
-`$ pip install opencv-python-headless gym==0.10.4 gym[atari]`
+`pip install opencv-python-headless gym==0.25.2 gym[atari] autorom[accept-rom-license]`
 
 Please refer to [OpenAI's page](https://github.com/openai/gym) if you have any problem while installing.
 
