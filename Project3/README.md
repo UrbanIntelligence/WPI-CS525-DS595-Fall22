@@ -1,8 +1,12 @@
 # Inidividual Project 3
 # Deep Q-learning Network(DQN)
-Please don't revise test.py, environment.py atari_wrapper.py, main.py and agent.py
+Please don't revise test.py, environment.py main.py and agent.py
 
-You work on the two files, including agent_dqn.py and dqn_model.py
+You work on the following files, including agent_dqn.py and dqn_model.py. 
+
+You can optionally update argument.py to add your own arguments (if needed).
+
+You can also optionally updated atari_wrapper.py (if needed, but not recommended). 
 
 #### Starating Date
 * Week 7, Tuesday Oct 11, 2022 (23:59)
@@ -40,7 +44,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
 ## Installation
 Type the following command to install OpenAI Gym Atari environment in your **virutal environment**.
 
-`$ pip install opencv-python-headless gym==0.10.4 gym[atari]`
+`pip install opencv-python-headless gym==0.25.2 gym[atari] autorom[accept-rom-license]`
 
 Please refer to [OpenAI's page](https://github.com/openai/gym) if you have any problem while installing.
 
@@ -52,7 +56,7 @@ testing DQN:
 * `$ python test.py --test_dqn`
 
 ## Goal
-In this project, you will be asked to implement DQN to play [Breakout](https://www.gymlibrary.dev/environments/atari/breakout/). This project will be completed in Python 3 using [Pytorch](https://pytorch.org/). The goal of your training is to get averaging reward in 100 episodes over **40 points** in **Breakout**, with OpenAI's Atari wrapper & unclipped reward. For more details, please see the [slides](https://docs.google.com/presentation/d/1CbYqY5DfXQy4crBw489Tno_K94Lgo7QwhDDnEoLYMbI/edit?usp=sharing).
+In this project, you will be asked to implement DQN to play [Breakout](https://www.gymlibrary.dev/environments/atari/breakout/). This project will be completed in Python 3 using [Pytorch](https://pytorch.org/). The goal of your training is to get averaging reward in 100 episodes over **40 points** in **Breakout**, with OpenAI's Atari wrapper & unclipped reward. For more details, please see the [slides](https://docs.google.com/presentation/d/1jQ1mvFWxpoPJMebTxct-PDBzmGT3-HkVfUnZOzOAFsA/edit?usp=sharing).
 
 <img src="/Project3/materials/project3.png" width="80%" >
 
