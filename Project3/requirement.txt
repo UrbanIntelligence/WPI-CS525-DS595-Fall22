@@ -1,5 +1,5 @@
 #opencv-python-headless
-#gym==0.10.4
+#gym==0.25.2
 #gym[atari]
 #autorom[accept-rom-license]
 #using the following command to install these packages
