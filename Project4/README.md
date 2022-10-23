@@ -15,7 +15,7 @@
   * *Code and trained model*
   * *Demo (Optional)*
   * *Self-and-cross evaluation form*
-* Poster Session (on Zoom)
+* Poster Session (In person)
   * **Week 15 Tuesday Dec 6, 2022**
 
 #### Total Points
