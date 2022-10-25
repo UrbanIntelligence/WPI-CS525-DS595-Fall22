@@ -28,7 +28,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
-  | 1  | |  |  |
+  | 1  | 10/24/2022 | Palawat Busaranuvong | 317 |
   | 2  | | |  |
   | 3  | | | |
 
