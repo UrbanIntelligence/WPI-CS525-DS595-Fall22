@@ -12,7 +12,7 @@ You can also optionally updated atari_wrapper.py (if needed, but not recommended
 * Week 7, Tuesday Oct 11, 2022 (23:59)
 
 #### Due Date
-* Week 10, Tuesday Nov 1, 2022 (23:59)
+* Week 11, Tuesday Nov 8, 2022 (23:59) (extended from Week 10, Tuesday Nov 1, 2022 (23:59))
 
 #### Total Points
 * 100 (One Hundred)
