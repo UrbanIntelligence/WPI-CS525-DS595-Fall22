@@ -26,11 +26,11 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   **Leaderboard for Breakout-DQN** 
   **Update Date: **
   
-  | Top | Date | Name | Score |
-  | :---: | :---:| :---: | :---: | 
-  | 1  | 10/24/2022 | Palawat Busaranuvong | 317 |
-  | 2  | | |  |
-  | 3  | | | |
+  | Top | Date | Name | Score | Model |
+  | :---: | :---:| :---: | :---: | :---: |
+  | 1  | 10/24/2022 | Palawat Busaranuvong | 317 | Prioritized DQN |
+  | 2  | 10/30/2022| Jack Ayvazian | 47.49 | Double DQN, DeepMind Architecture |
+  | 3  | | | | |
 
   
  
