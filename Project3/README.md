@@ -30,7 +30,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | :---: | :---:| :---: | :---: | :---: |
   | 1  | 10/24/2022 | Palawat Busaranuvong | 317 | Prioritized DQN |
   | 2  | 11/06/2022 | Yiwei Jiang | 96.46 | ... |
-  | 3  | 11/07/2022 | Brown, Galen | 69.01 | ... |
+  | 3  | 11/07/2022 | Brown, Galen | 69.01 | Basic DQP with reward shaping |
   | 4  | 11/5/2022  | Ryan Killea | 67.12 | ... |
   | 5  | 10/30/2022 | Jack Ayvazian | 47.49 | Double DQN, DeepMind Architecture |
 
