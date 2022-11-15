@@ -29,7 +29,7 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | Top | Date | Name | Score | Model |
   | :---: | :---:| :---: | :---: | :---: |
   | 1  | 10/24/2022 | Palawat Busaranuvong | 317 | Prioritized DQN |
-  | 2  | 11/06/2022 | Yiwei Jiang | 96.45 | Vanilla DQN |
+  | 2  | 11/06/2022 | Yiwei Jiang | 96.45 | DDQN |
   | 3  | 11/14/2022 | Samarth Shah | 85.39 | DDQN with Prioritized Replay |
   | 4  | 11/14/2022 | Aadesh Varude | 71.65 | Vanilla DQN |
   | 5  | 11/07/2022 | Brown, Galen | 69.01 | Basic DQP with reward shaping |
