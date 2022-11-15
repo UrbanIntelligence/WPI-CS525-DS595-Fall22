@@ -29,13 +29,13 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | Top | Date | Name | Score | Model |
   | :---: | :---:| :---: | :---: | :---: |
   | 1  | 10/24/2022 | Palawat Busaranuvong | 317 | Prioritized DQN |
-  | 2  | 11/06/2022 | Yiwei Jiang | 96.46 | ... |
-  | 3  | 11/07/2022 | Brown, Galen | 69.01 | Basic DQP with reward shaping |
-  | 4  | 11/5/2022  | Ryan Killea | 67.12 | ... |
-  | 5  | 10/30/2022 | Jack Ayvazian | 47.49 | Double DQN, DeepMind Architecture |
-
-  
- 
+  | 2  | 11/06/2022 | Yiwei Jiang | 96.45 | Vanilla DQN |
+  | 3  | 11/14/2022 | Samarth Shah | 85.39 | DDQN with Prioritized Replay |
+  | 4  | 11/14/2022 | Aadesh Varude | 71.65 | Vanilla DQN |
+  | 5  | 11/07/2022 | Brown, Galen | 69.01 | Basic DQP with reward shaping |
+  | 6  | 11/5/2022  | Ryan Killea | 67.12 | ... |
+  | 7  | 11/14/2022  | Rushabh Kheni | 65.51 | Vanilla DQN with Deepmind architecture |  
+  | 8  | 10/30/2022 | Jack Ayvazian | 47.49 | Double DQN, DeepMind Architecture |  
 
 * How to elvaluate
   * You should submit your lastest trained model and python code. TA will run your code to make sure the result is consistent with your screenshot. 
