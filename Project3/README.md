@@ -29,14 +29,23 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   | Top | Date | Name | Score | Model |
   | :---: | :---:| :---: | :---: | :---: |
   | 1  | 10/24/2022 | Palawat Busaranuvong | 317 | Prioritized DQN |
+  | 2  | 11/15/2022 | Amey Deshpande | 166.8 | ... |
   | 2  | 11/15/2022 | Rane, Bhushan | 166.8 | ... |
-  | 3  | 11/06/2022 | Yiwei Jiang | 96.45 | DDQN |
-  | 4  | 11/14/2022 | Samarth Shah | 85.39 | DDQN with Prioritized Replay |
-  | 5  | 11/14/2022 | Aadesh Varude | 71.65 | Vanilla DQN |
-  | 6  | 11/07/2022 | Brown, Galen | 69.01 | Basic DQP with reward shaping |
-  | 7  | 11/5/2022  | Ryan Killea | 67.12 | ... |
-  | 8  | 11/14/2022  | Rushabh Kheni | 65.51 | Vanilla DQN with Deepmind architecture |  
-  | 9  | 10/30/2022 | Jack Ayvazian | 47.49 | Double DQN, DeepMind Architecture |  
+  | 3  | 11/15/2022 | Yash Patil | 113.14 | ... |
+  | 4  | 11/06/2022 | Yiwei Jiang | 96.45 | DDQN |
+  | 5  | 11/15/2022 | Aniket Patil | 92.18 | ... |
+  | 6  | 11/14/2022 | Samarth Shah | 85.39 | DDQN with Prioritized Replay |
+  | 7  | 11/15/2022 | Neet Mehulkumar Mehta | 80.39 | ... |
+  | 8  | 11/15/2022 | Noopur Koshta | 79.68 | ... |  
+  | 9  | 11/15/2022 | Kunal Nandanwar | 79.68 | ... |            
+  | 10  | 11/14/2022 | Aadesh Varude | 71.65 | Vanilla DQN |
+  | 11  | 11/1t/2022 | Rutwik Bonde | 69.52 | ... |  
+  | 12  | 11/07/2022 | Brown, Galen | 69.01 | Basic DQP with reward shaping |
+  | 13  | 11/5/2022  | Ryan Killea | 67.12 | ... |
+  | 14  | 11/14/2022  | Rushabh Kheni | 65.51 | Vanilla DQN with Deepmind architecture |  
+  | 15  | 10/30/2022 | Jack Ayvazian | 47.49 | Double DQN, DeepMind Architecture |  
+  
+
 
 * How to elvaluate
   * You should submit your lastest trained model and python code. TA will run your code to make sure the result is consistent with your screenshot. 
