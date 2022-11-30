@@ -40,6 +40,22 @@
 # Final Poster Session
 Final Poster Session will be held in person.
 
+Date/Time: 12/6/2022 6-8:50pm
+
+Location: Fuller Labs 320 (FL320)
+
+Schedule: 
+
+6-6:05PM Setup
+
+6:05-6:55PM (Session #1) Odd number teams (1,3,5,7,9) are the presenting teams; Even number teams are the judge teams.
+
+6:55-7:00PM break
+
+7:05-7:55PM (Session #2) Even number teams (2,4,6,8,10) are the presenting teams; Odd number teams are the judge teams.
+
+7:55-8:50 Social and Free discussion
+
 ***Feedback here: To be updated 
 
 ## Project Ideas
