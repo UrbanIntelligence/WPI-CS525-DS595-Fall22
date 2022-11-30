@@ -23,6 +23,16 @@
 
 ## Project Titles (To be updated!)
 | Team | Title|
+|1. | Reinforcement Learning for Conformal Tumor Ablation |
+|2. | Implementing DQN and PPO on various ATARI environments and proposing a comparative analysis report for the algorithms |
+|3. |Comparing Modified Twin-Delayed DDPG with other RL-baseline algorithms on Half-Cheetah MuJoCo Simulation |
+|4. |2048 game |
+|5. |Reinforcement Learning for mingrid environment|
+|6. |Continuous Control of Mobile Robots for Navigation in Unseen Environment|
+|7. |Reinforcement Learning for Mobile Robots|
+|8. |Reinforcement Learning for CarRacing environment|
+|9. |Deep Reinforcement Learning for Decision Making in Autonomous Driving |
+|10. |Implementation of Reinforcement Learning algorithms on the Highway-Environment|
 | :---: | :---: |
 
 
